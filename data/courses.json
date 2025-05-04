@@ -1,0 +1,71 @@
+[
+  {
+    "name": "CSE101",
+    "icon": "📘",
+    "url": "https://example.com/intro"
+  },
+  {
+    "name": "CSE370",
+    "icon": "🧠",
+    "categories": [
+      {
+        "name": "Theory",
+        "links": [
+          { "name": "Slides", "url": "https://example.com/theory/slides" },
+          { "name": "Notes", "url": "https://example.com/theory/notes" }
+        ]
+      },
+      {
+        "name": "Lab",
+        "links": [
+          { "name": "Manual", "url": "https://example.com/lab/manual" },
+          { "name": "Resources", "url": "https://example.com/lab/resources" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CSE210",
+    "icon": "💻",
+    "url": "https://example.com/programming"
+  },
+  {
+    "name": "CSE401",
+    "icon": "🌐",
+    "categories": [
+      {
+        "name": "Lectures",
+        "links": [
+          { "name": "Recordings", "url": "https://example.com/lectures/recordings" },
+          { "name": "Slides", "url": "https://example.com/lectures/slides" }
+        ]
+      },
+      {
+        "name": "Assignments",
+        "links": [
+          { "name": "HW1", "url": "https://example.com/assignments/hw1" },
+          { "name": "HW2", "url": "https://example.com/assignments/hw2" },
+          { "name": "Project", "url": "https://example.com/assignments/project" }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CSE142",
+    "icon": "🔍",
+    "url": "https://example.com/algorithms"
+  },
+  {
+    "name": "CSE250",
+    "icon": "🔢",
+    "categories": [
+      {
+        "name": "Resources",
+        "links": [
+          { "name": "Textbook", "url": "https://example.com/resources/textbook" },
+          { "name": "Practice Problems", "url": "https://example.com/resources/practice" }
+        ]
+      }
+    ]
+  }
+]
